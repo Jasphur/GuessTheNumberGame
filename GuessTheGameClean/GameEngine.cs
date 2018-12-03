@@ -51,6 +51,10 @@ namespace GuessTheGameClean
                 }
             }
 
+            Console.WriteLine("Druk op een toets om verder te gaan");
+            Console.ReadLine();
+            Console.Clear();
+
             return NextTurn;
         }
     }

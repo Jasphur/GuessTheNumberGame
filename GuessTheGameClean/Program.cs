@@ -47,9 +47,8 @@ namespace GuessTheGameClean
             #region Close Prompt
             Console.WriteLine();
             Console.WriteLine("Press <Enter> to exit..");
-            Console.ReadLine(); 
+            Console.ReadLine();
             #endregion
-
         }
     }
 }
