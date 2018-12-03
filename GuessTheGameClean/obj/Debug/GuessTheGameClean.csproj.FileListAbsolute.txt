@@ -1,0 +1,7 @@
+C:\Projects\Grappen\GuessTheGameCleanSolution\GuessTheGameClean\bin\Debug\GuessTheGameClean.exe.config
+C:\Projects\Grappen\GuessTheGameCleanSolution\GuessTheGameClean\bin\Debug\GuessTheGameClean.exe
+C:\Projects\Grappen\GuessTheGameCleanSolution\GuessTheGameClean\bin\Debug\GuessTheGameClean.pdb
+C:\Projects\Grappen\GuessTheGameCleanSolution\GuessTheGameClean\obj\Debug\GuessTheGameClean.csprojAssemblyReference.cache
+C:\Projects\Grappen\GuessTheGameCleanSolution\GuessTheGameClean\obj\Debug\GuessTheGameClean.csproj.CoreCompileInputs.cache
+C:\Projects\Grappen\GuessTheGameCleanSolution\GuessTheGameClean\obj\Debug\GuessTheGameClean.exe
+C:\Projects\Grappen\GuessTheGameCleanSolution\GuessTheGameClean\obj\Debug\GuessTheGameClean.pdb
